@@ -1,0 +1,36 @@
+{
+  "config": {
+    "abort": {
+      "already_configured": "Gerät ist bereits konfiguriert",
+      "reauth_successful": "Neuauthentifizierung war erfolgreich"
+    },
+    "error": {
+      "cannot_connect": "Verbindung fehlgeschlagen",
+      "invalid_auth": "Ungültige Authentifizierung",
+      "unknown": "Unerwarteter Fehler"
+    },
+    "step": {
+      "user": {
+        "data": {
+          "password": "Passwort",
+          "username": "Benutzername",
+          "api_url_setting": "Ariston API-URL"
+        }
+      }
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "data": {
+          "extra_energy_features": "Zusätzliche energiebezogene Entitäten",
+          "scan_interval": "Zonen-Scan-Intervall (Sekunden)",
+          "energy_scan_interval": "Energie-Scan-Intervall (Minuten)",
+          "bus_errors_scan_interval": "Bus-Fehler-Scan-Intervall (Sekunden)",
+          "api_url_setting": "Ariston API-URL"
+        },
+        "title": "Ariston konfigurieren"
+      }
+    }
+  }
+}
